@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.7.17, for Win64 (x86_64)
 --
--- Host: 192.168.50.128    Database: dw_all_compartidos
+-- Host: XXX.XXX.XXX.XXX    Database: XXX
 -- ------------------------------------------------------
 -- Server version	5.1.73-log
 
