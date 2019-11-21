@@ -56,8 +56,3 @@ ALTER TABLE lu_tie_anio_semana
 CHANGE COLUMN id_tie_anio_semana id_tie_anio_semana INT(11) NOT NULL ,
 ADD PRIMARY KEY (id_tie_anio_semana)
 ;
-###
-#select * from lu_tie_anio_semana 
-#where id_tie_anio_semana is null
-#;
-###
